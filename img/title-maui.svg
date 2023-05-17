@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156.78 67.51">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #e7bd38;
+      }
+
+      .cls-2 {
+        font-family: MavenPro-Medium, 'Maven Pro';
+        font-size: 63.93px;
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Calque_8" data-name="Calque 8">
+    <g>
+      <text class="cls-2" transform="translate(.03 53.29) rotate(.13)"><tspan x="0" y="0">MAUI</tspan></text>
+      <rect class="cls-1" x="4.79" y="58.93" width="147" height="4"/>
+    </g>
+  </g>
+</svg>
