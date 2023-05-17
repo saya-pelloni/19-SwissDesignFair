@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 267.93 58.54">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: MavenPro-Bold, 'Maven Pro';
+        font-size: 55.41px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g id="Calque_4" data-name="Calque 4">
+    <g>
+      <text class="cls-2" transform="translate(0 46.18) scale(.63 1)"><tspan x="0" y="0">SwissDesign</tspan><tspan class="cls-3" x="326.72" y="0">F</tspan><tspan x="356.36" y="0">air</tspan></text>
+      <rect class="cls-1" x="1.93" y="50.57" width="150" height="4"/>
+      <rect class="cls-1" x="184.93" y="50.57" width="82" height="4"/>
+    </g>
+  </g>
+</svg>
